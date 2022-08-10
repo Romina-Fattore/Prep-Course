@@ -148,7 +148,7 @@ Sin embargo, esto solo funciona para las personas que quieren empezar a contribu
 - **Primero:** Guardar la URL del repositorio de GitHub con el nombre de origin
 
 ```bash
-git remote add origin <URL>
+git remote add origin https://github.com/Romina-Fattore/Prep-Course.gitL
 ```
 
 - **Segundo**: Verificar que la URL se haya guardado correctamente
