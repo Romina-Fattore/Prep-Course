@@ -1,0 +1,20 @@
+
+h1 {
+   color:rebeccapurple
+}   
+img {
+   width: 400;
+}
+#thirdIv {
+   height: 500;
+   width:600;
+   background-color: grey;
+   padding: 50;
+   border: 5px solid plum;
+}
+#spanId {
+   font-size: 18;
+   margin: 50;
+}
+
+
